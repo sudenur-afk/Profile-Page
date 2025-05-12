@@ -1,7 +1,13 @@
 *.cpp linguist-vendored
-*.h linguist-vendored
 *.c linguist-vendored
+*.h linguist-vendored
 *.cmake linguist-vendored
-*.swift linguist-vendored
-*.html linguist-vendored
+CMakeLists.txt linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+web/** linguist-vendored
+android/** linguist-vendored
+ios/** linguist-vendored
+
 lib/** linguist-language=Dart
